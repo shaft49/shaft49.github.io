@@ -13,7 +13,7 @@ const Sidebar = () => {
           <nav href="#navbar" className="js-template-nav-toggle template-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i /></nav>
           <aside id="template-aside" className="border js-fullheight">
             <div className="text-center">
-              <div className="author-img" style={{backgroundImage: 'url(images/about.jpg)'}} />
+              <div className="author-img" style={{backgroundImage: 'url(images/profile.jpg)'}} />
                 <h1 id="template-logo"><a href="index.html"><span className="sidebar-firstname">{info.firstname}</span><span className="sidebar-lastname">{info.lastname}</span></a></h1>
             </div>
             <nav id="template-main-menu" role="navigation" className="navbar">

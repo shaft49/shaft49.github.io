@@ -1,6 +1,7 @@
 import React from 'react'
 import Sidebar from '../components/sidebar'
 import Home from '../components/home'
+import About from '../components/about'
 
 function Main() {
     return(
@@ -9,6 +10,7 @@ function Main() {
                 <Sidebar></Sidebar>
                 <div id = "template-main">
                 <Home></Home>
+                <About></About>
                 </div>
             </div>
         </div>

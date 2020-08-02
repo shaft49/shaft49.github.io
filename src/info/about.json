@@ -1,0 +1,22 @@
+{
+    "About": [
+        {
+            "section": "bio",
+            "description": [
+                "I am a Software Engineer, Competitive Programmer and Deep Learning Enthusiast. I love learning new things like - programming languages, technology, design patterns, algorithms, data-structure and any other tech stuff you can name."
+            ]
+        },
+        {
+            "section": "current work",
+            "description": [
+                "Currently I am working at CodeMarshal IT Systems Ltd, a startup, as a R&D Engineer. My responsibilities involves solving Machine Learning Problems, read research papers and implement them, built demo version of the model. I mostly work with Python, Flask, TensorFlow and Pytorch."
+            ]
+        },
+        {
+            "section": "background",
+            "description": [
+                "I completed my B.Sc in Computer Science and Engineering from Military Institute of Science & Technology(MIST). While doing so I was mostly into Competitive programming and Problem solving. I have solved around 3000 programming problems using several data-structures and algorithms in different online judges. Also I participated in several online and onsite national programming contests including two ACM-ICPC regionals. I ranked in top 10 at the 2018 ACM ICPC Dhaka Regional"
+            ]
+        }
+    ]
+}

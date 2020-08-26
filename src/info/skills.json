@@ -1,0 +1,47 @@
+{
+    "Technical Skills": [
+        {
+          "division": "Languages",
+          "items": [
+            {"name": "C++", "level": 75},
+            {"name": "Python", "level": 65},
+            {"name": "Swift", "level": 55},
+            {"name": "JavaScript", "level": 30}
+          ]
+        },
+        {
+          "division": "Machine Learning Frameworks",
+          "items": [
+            {"name": "TensorFlow", "level": 75},
+            {"name": "Keras", "level": 75},
+            {"name": "Numpy", "level": 75},
+            {"name": "Pandas", "level": 50},
+            {"name": "OpenCV", "level": 70},
+            {"name": "PyTorch", "level": 50}
+          ]
+        },
+        {
+          "division": "Mobile App Development",
+          "items": [
+            {"name": "iOS", "level": 55}
+          ]
+        },
+        {
+          "division": "Web Frameworks",
+          "items": [
+            {"name": "React.js", "level": 30}
+          ]
+        },
+        {
+          "division": "Others",  
+          "items": [
+            {"name": "Data Structures", "level": 90},
+            {"name": "Algorithms", "level": 90},
+            {"name": "OOP", "level": 90},
+            {"name": "Functional Programming", "level": 85},
+            {"name": "git", "level": 90},
+            {"name": "Docker", "level": 20}
+          ]
+        }
+      ]
+}

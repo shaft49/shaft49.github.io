@@ -3,6 +3,7 @@ import Sidebar from '../components/sidebar'
 import Home from '../components/home'
 import About from '../components/about'
 import Experience from '../components/experience'
+import Skills from '../components/skills'
 
 function Main() {
     return(
@@ -13,6 +14,7 @@ function Main() {
                 <Home></Home>
                 <About></About>
                 <Experience></Experience>
+                <Skills></Skills>
                 </div>
             </div>
         </div>

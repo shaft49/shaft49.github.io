@@ -2,6 +2,7 @@ import React from 'react'
 import Sidebar from '../components/sidebar'
 import Home from '../components/home'
 import About from '../components/about'
+import Experience from '../components/experience'
 
 function Main() {
     return(
@@ -11,6 +12,7 @@ function Main() {
                 <div id = "template-main">
                 <Home></Home>
                 <About></About>
+                <Experience></Experience>
                 </div>
             </div>
         </div>

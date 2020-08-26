@@ -1,0 +1,33 @@
+{
+    "Professional Experience": [
+        {
+          "Company Name": "CodeMarshal IT Systems Ltd",
+          "Position": "R&D Engineer",
+          "Timeline": {
+            "Start": "November, 2019",
+            "End": "Present"
+          },
+          "Key Responsibilities": [
+            "Created a dataset for real vs fake faces and built a liveness detection model from a single static image using TensorFlow and Keras with an accuracy of 74%.",
+            "Built a face liveness detection based on eye blinking using OpenCV.",
+            "Built a NID(National ID Card of Bangladesh) type detector (old/new) with a 100% classification accuracy and 99.75% mean average precision using the Darknet framework.",
+            "Built automatic identity extraction from ID cards using image processing and optical character recognition to extract the information given using tesseract 4.1 as base OCR library.",
+            "Built a Crowd Counting model using YOLOv3 and SCUT_HEAD dataset.",
+            "Built a Head Detection model that achieved mAP(mean average precision) of 90% on the SCUT-HEAD dataset."
+          ]
+        },
+        {
+            "Company Name": "Samsung R&D Institute LTD Bangladesh",
+            "Position": "Software Engineer",
+            "Timeline": {
+              "Start": "November, 2018",
+              "End": "October, 2019"
+            },
+            "Key Responsibilities": [
+              "Worked as an iOS developer for a B2B Health Application(VeoSens) with the team who developed Samsung Health(iOS).",    
+              "Achieved SWC Professional Certificate second most prestigious programming competency certification inside Samsung globally.",
+              "In-team mentoring for Data Structures and Algorithms."
+            ]
+          }
+      ]
+}

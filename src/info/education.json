@@ -1,0 +1,42 @@
+{
+    "Education": [
+        {
+            "Degree": "B.Sc in Computer Science and Engineering",
+            "Institution": "Military Institute of Science and Technology",
+            "Timeline": {
+                "Start": "February 2014",
+                "End": "January 2018"
+            },
+            "Activities": [
+                "Took part in Competitive programming and problem Solving which made me fluent in coding and algorithmic knowledge.",
+                "Worked as a trainer of Competitive Programming and Problem Solving class arranged by MIST Computer Club for 2+ years.",
+                "Worked as an Event Manager at MIST Computer Club in the session 2016-17",
+                "Worked as Secretary of MIST Computer Club for the session 2017-118.",
+                "Participated in 10+ onsite programming contestes.",
+                "CGPA: 3.27/4"
+            ]
+        },
+        {
+            "Degree": "Higher Secondary School Certificate",
+            "Institution": "Notre Dame College Dhaka",
+            "Timeline": {
+                "Start": "June 2011",
+                "End": "July 2013"
+            },
+            "Activities": [
+                "GPA : 5.00/5.00"
+            ]
+        },
+          {
+            "Degree": "Secondary School Certificate",
+            "Institution": "Rajshahi Collegiate School, Rajshahi",
+            "Timeline": {
+                "Start": "January 2003",
+                "End": "June 2011"
+            },
+            "Activities": [
+                "GPA : 5.00/5.00"
+            ]
+        }
+    ]
+}

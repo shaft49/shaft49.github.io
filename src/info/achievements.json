@@ -1,10 +1,66 @@
 {
     "Achievements": [
         {
-            "item": "dh",
+            "images": [
+
+            ],
+            "Description": "Ranked 123rd out of 32699 participants at FaceBook HackerCup 2020 Qualification Round"
+        },
+        {
             "images": [
                 
-            ]
+            ],
+            "Description": "Ranked 7th out of 59 teams at at NCPC AKA Hackathon by BSCCL at UITS"
+        },
+        {
+            "images": [
+                
+            ],
+            "Description": "Ranked 8th out of 298 teams at ACM ICPC Dhaka Regional 2018."
+        },
+        {
+            "images": [
+
+            ],
+            "Description": "Ranked 9th out of 128 teams at Cybernauts NPC 2018"
+        },
+        {
+            "images": [
+                
+            ],
+            "Description": "Ranked 13th out of 136 teams at GUB ICPC 2018"
+        },
+        {
+            "images": [
+                
+            ],
+            "Description": "Ranked 14th out of 149 teams at NCPC 2018"
+        },
+        {
+            "images": [
+                
+            ],
+            "Description": "Ranked 16th out of 90 teams at 1st LU National ICT Fest Programming Contest 2018"
+        },
+        {
+            "images": [
+
+            ],
+            "Description": "Ranked 4th out of 60 teams at VU CSE Carnival 2017 Programming Contest"
+
+        }, 
+        {
+            "images": [
+
+            ],
+            "Description": "Ranked 16th out of 161 teams at at SUST Inter University Programming Contest,2017"
+        },
+        {
+            "images": [
+
+            ],
+            "Description": "Ranked 16th out of 49 teams at NCPC AKA Hackathon by BSCCL at UITS"
+
         }
     ]
 }

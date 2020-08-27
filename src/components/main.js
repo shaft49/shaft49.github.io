@@ -5,6 +5,7 @@ import About from '../components/about'
 import Experience from '../components/experience'
 import Skills from '../components/skills'
 import Education from '../components/education'
+import Achievements from '../components/achievements'
 
 function Main() {
     return(
@@ -17,6 +18,7 @@ function Main() {
                 <Experience></Experience>
                 <Skills></Skills>
                 <Education></Education>
+                <Achievements></Achievements>
                 </div>
             </div>
         </div>

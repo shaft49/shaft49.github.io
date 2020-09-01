@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bc94b5d24119c02077a96d6b9d58640d",
+    "revision": "4b60aa9f1a777e92f3b3fbc1012b7670",
     "url": "/index.html"
   },
   {
-    "revision": "122691de460af879644f",
+    "revision": "21c7ad7ef41ca0875a41",
     "url": "/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,15 +16,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.86d5a1bd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "122691de460af879644f",
-    "url": "/static/js/main.bc014a60.chunk.js"
+    "revision": "21c7ad7ef41ca0875a41",
+    "url": "/static/js/main.437e69c1.chunk.js"
   },
   {
     "revision": "58f4e54798456b05f903",
     "url": "/static/js/runtime-main.fe71430f.js"
   },
   {
-    "revision": "21db1ba68663c646c4277b29db764151",
-    "url": "/static/media/Md_Shafiul_Islam_Resume.21db1ba6.pdf"
+    "revision": "fe4b2ab235e205f8ac123a38ed7ea0cb",
+    "url": "/static/media/Md_Shafiul_Islam_Resume.fe4b2ab2.pdf"
   }
 ]);

@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/static/css/main.5f361e03.chunk.css",
-    "main.js": "/static/js/main.bc014a60.chunk.js",
-    "main.js.map": "/static/js/main.bc014a60.chunk.js.map",
+    "main.js": "/static/js/main.437e69c1.chunk.js",
+    "main.js.map": "/static/js/main.437e69c1.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.fe71430f.js",
     "runtime-main.js.map": "/static/js/runtime-main.fe71430f.js.map",
     "static/js/2.86d5a1bd.chunk.js": "/static/js/2.86d5a1bd.chunk.js",
     "static/js/2.86d5a1bd.chunk.js.map": "/static/js/2.86d5a1bd.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.d75a947ae1004b96b35c71352f88c1fb.js": "/precache-manifest.d75a947ae1004b96b35c71352f88c1fb.js",
+    "precache-manifest.ca1557fb8cade287f1908c2f564aa300.js": "/precache-manifest.ca1557fb8cade287f1908c2f564aa300.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.86d5a1bd.chunk.js.LICENSE.txt": "/static/js/2.86d5a1bd.chunk.js.LICENSE.txt",
-    "static/media/Md_Shafiul_Islam_Resume.pdf": "/static/media/Md_Shafiul_Islam_Resume.21db1ba6.pdf"
+    "static/media/Md_Shafiul_Islam_Resume.pdf": "/static/media/Md_Shafiul_Islam_Resume.fe4b2ab2.pdf"
   },
   "entrypoints": [
     "static/js/runtime-main.fe71430f.js",
     "static/js/2.86d5a1bd.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.bc014a60.chunk.js"
+    "static/js/main.437e69c1.chunk.js"
   ]
 }
